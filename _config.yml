@@ -1,0 +1,14 @@
+layout_spectrum: 0.5111623
+typography_spectrum: 0.502524
+color:
+  saturation: 0.1448373
+  lightness: 0.9275949
+  brandStrength: 0.7515998
+  rhythmicContrast: 0.4462188
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Our Stories
